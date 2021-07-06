@@ -8,7 +8,7 @@ docker原有的网络配置是无法给容器固定IP所以需要自建自己的
 docker network create --subnet=172.18.0.0/16 mynetwork
 ```
 ### 组建Redis Sentinel
-![img](https://github.com/tale2009/docker-using/blob/main/redis%20entinel%20with%20docker/image.png?raw=true)
+![](https://github.com/tale2009/docker-using/blob/main/redis%20sentinel%20with%20docker/image.png?raw=true)
 <center>拓补图</center>
 
 #### Redis主从复制
